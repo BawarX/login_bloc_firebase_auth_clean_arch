@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "885828446234",
+    "project_id": "authentication-26277",
+    "storage_bucket": "authentication-26277.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:885828446234:android:ae8875911d977df11e49a3",
+        "android_client_info": {
+          "package_name": "com.example.local_login"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "885828446234-k6r2eo9b9ua6tvdtbso3keb9q80ns44v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAgcdzH1sQ6PQD--_vWR6Ukuptwli4HAQU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "885828446234-k6r2eo9b9ua6tvdtbso3keb9q80ns44v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
